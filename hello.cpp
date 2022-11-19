@@ -4,5 +4,5 @@ int main()
     {
     int a;
     cin>>a;
-    cout<<"Hello";
+    cout<<"Hell";
     }
